@@ -21,8 +21,7 @@ Tkinter library
 Clone this repository to your local machine.
 Navigate to the directory containing the whiteboard.py file.
 Run the following command:
-bash
-python whiteboard.py
+'python whiteboard.py'
 
 
 <h2>License</h2>
