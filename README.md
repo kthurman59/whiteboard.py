@@ -3,8 +3,11 @@ The Whiteboard App is a simple drawing application built using Python's Tkinter 
 
 <h2>Features</h2>
 Drawing: Users can draw lines freely on the canvas by clicking and dragging the mouse.
+
 Change Pen Color: The app provides an option to change the pen color using a color picker dialog.
+
 Adjust Line Width: Users can adjust the thickness of the drawing line using a slider control.
+
 Clear Canvas: There is an option to clear the entire canvas with a single click.
 
 <h2>Usage</h2>
